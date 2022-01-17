@@ -2,6 +2,7 @@
 
 This implementation is written in Python 3 and uses Tensorflow2
 ## Requirements
+* 'python=3.7.7'
 * 'matplotlib'
 * 'numpy=1.18.5'
 * 'tensorflow=2.2.0'
