@@ -18,5 +18,5 @@ To facilitate performance verification, we provide simple verification code. mod
 * PER_TYPE = 1, budget = degree + PER_NUM
 * PER_TYPE = 2, budget = degree * PER_NUM
 
-## email
+## Email
 duiyady@163.com
